@@ -2,7 +2,7 @@
 
 <!-- themes: react, material-palenight, great-gatsby, tokyonight_duo -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sccheruku&show_icons=true&theme=react" alt="sccheruku" height="161" />&nbsp;
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sccheruku&count_private=true&show_icons=true&include_all_commits=true&theme=react" alt="sccheruku" height="161" />&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sccheruku&layout=compact&langs_count=11&theme=react"  height="161"/>&nbsp;
 <img src="http://github-readme-streak-stats.herokuapp.com?user=sccheruku&theme=react&background=000000" height="161"/>&nbsp;
 <p align="center">
