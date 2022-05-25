@@ -19,6 +19,7 @@
 
 <br />
 
+[Near Certified Developer](https://certificates.near.university/account/cherukumilli-sai.near)
   
 <!--
 **sccheruku/sccheruku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
