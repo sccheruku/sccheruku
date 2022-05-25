@@ -7,6 +7,8 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=sccheruku&theme=react&background=000000" height="161"/>&nbsp;
 <p align="center">
 
+[Near Certified Developer](https://certificates.near.university/account/cherukumilli-sai.near)
+  
   
 ## Connect with me
 
@@ -18,8 +20,6 @@
 
 
 <br />
-
-[Near Certified Developer](https://certificates.near.university/account/cherukumilli-sai.near)
   
 <!--
 **sccheruku/sccheruku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
