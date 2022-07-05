@@ -14,3 +14,6 @@ console.aws.amazon.com###default-event-bus .awsui-table-container tr td:nth-chil
 console.aws.amazon.com###default-event-bus .awsui-table-container tr th:nth-child(2)
 console.aws.amazon.com###custom-event-bus .awsui-table-container tr td:nth-child(3)
 console.aws.amazon.com###custom-event-bus .awsui-table-container tr th:nth-child(3)
+console.aws.amazon.com##[data-test-selector="eventbus-details-ebus-arn"]
+console.aws.amazon.com##[data-test-selector="rule-details-page"] .custom-wrapping
+console.aws.amazon.com##[data-test-selector="rule-details-page"] .CodeMirror-code
