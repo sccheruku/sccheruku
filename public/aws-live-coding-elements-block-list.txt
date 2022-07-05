@@ -2,4 +2,5 @@ console.aws.amazon.com##.awsui-column-layout-columns-2.awsui-column-layout-colum
 console.aws.amazon.com##.awsui-column-layout-columns-1.awsui-column-layout-variant-default > span:nth-of-type(1) > span:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)
 console.aws.amazon.com##.globalNav-0336 > div:nth-of-type(1) > span:nth-of-type(2)
 console.aws.amazon.com##[data-testid=awsc-nav-account-menu-button]
-console.aws.amazon.com##.awsui-table-container tr td:nth-child(2)
+console.aws.amazon.com/amplify##.awsui-table-container tr td:nth-child(2)
+console.aws.amazon.com/amplify##.awsui-table-container tr th:nth-child(2)
