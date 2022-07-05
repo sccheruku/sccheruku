@@ -1,1 +1,3 @@
 console.aws.amazon.com##.awsui-column-layout-columns-2.awsui-column-layout-columns-multiple.awsui-column-layout-variant-default.awsui-column-layout-vertical-borders > span:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)
+console.aws.amazon.com##.awsui-column-layout-columns-1.awsui-column-layout-variant-default > span:nth-of-type(1) > span:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2)
+console.aws.amazon.com##.globalNav-0336 > div:nth-of-type(1) > span:nth-of-type(2)
