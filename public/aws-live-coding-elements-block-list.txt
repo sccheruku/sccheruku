@@ -12,5 +12,5 @@ console.aws.amazon.com###awsui-tabs-0-resources-panel tr th:nth-child(2)
 console.aws.amazon.com##awsui-column-layout div:nth-child(4) > div > div > div:last-child
 console.aws.amazon.com###default-event-bus .awsui-table-container tr td:nth-child(2)
 console.aws.amazon.com###default-event-bus .awsui-table-container tr th:nth-child(2)
-console.aws.amazon.com###custom-event-bus .awsui-table-container tr td:nth-child(2)
-console.aws.amazon.com###custom-event-bus .awsui-table-container tr th:nth-child(2)
+console.aws.amazon.com###custom-event-bus .awsui-table-container tr td:nth-child(3)
+console.aws.amazon.com###custom-event-bus .awsui-table-container tr th:nth-child(3)
