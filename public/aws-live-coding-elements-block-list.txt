@@ -7,5 +7,5 @@ console.aws.amazon.com##.apphub > .awsui-table-container tr th:nth-child(2)
 console.aws.amazon.com##.lambda-page-container .designer-info-container
 console.aws.amazon.com###overview-stack-id
 console.aws.amazon.com###overview-role-arn
-console.aws.amazon.com##.cfn-details-table > .awsui-table-container tr td:nth-child(2)
-console.aws.amazon.com##.cfn-details-table > .awsui-table-container tr th:nth-child(2)
+console.aws.amazon.com##.cfn-details-table tr td:nth-child(2)
+console.aws.amazon.com##.cfn-details-table tr th:nth-child(2)
