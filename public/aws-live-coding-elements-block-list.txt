@@ -4,4 +4,4 @@ console.aws.amazon.com##.globalNav-0336 > div:nth-of-type(1) > span:nth-of-type(
 console.aws.amazon.com##[data-testid=awsc-nav-account-menu-button]
 console.aws.amazon.com##.apphub > .awsui-table-container tr td:nth-child(2)
 console.aws.amazon.com##.apphub > .awsui-table-container tr th:nth-child(2)
-console.aws.amazon.com##.lambda-page-container > .designer-info-container
+console.aws.amazon.com##.lambda-page-container .designer-info-container
